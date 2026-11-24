@@ -9,6 +9,8 @@ Python 3.13, standard library only, no network.
 # retyped more slowly. One line, one sentence, 98 characters — inside
 # the 200-character gate. The twist lands in the last few words,
 # reframing the setup as the agent does now.
+# Revision note: re-read the gate after running; 98 characters, one
+# line, one sentence, no trailing newline.
 import os
 
 TEXT = (
